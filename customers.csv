@@ -1,0 +1,7 @@
+customer_id,age,tenure,monthly_charges,total_charges,churn
+1,25,12,50,600,No
+2,40,24,70,1680,Yes
+3,30,6,60,360,No
+4,50,36,80,2880,Yes
+5,23,3,45,135,No
+6,35,18,65,1170,Yes
